@@ -14,7 +14,14 @@ veuillez selectionner le mode de jeu qui vous correspond :
  terminal :
             ce mode correspond a une version terminal du jeu, le jeu est donc directement afficher sur le terminal sous forme de caracter asci
             le mode d'emplois de la version terminal :
-            ![image](https://user-images.githubusercontent.com/66484656/205163255-eeec9cf2-ba3e-4787-9c09-61f92ffaad69.png)
+            Choix de la scene 
+            ![image](https://user-images.githubusercontent.com/66484656/205608268-04bd8904-6ca3-4767-a554-ffb692211b56.png)
+            
+le jeu s'affiche:
+![image](https://user-images.githubusercontent.com/66484656/205608592-f7cc00d7-e89a-4db9-9d33-1a57994ce18b.png)
+            
+le menu du jeu :
+![image](https://user-images.githubusercontent.com/66484656/205163255-eeec9cf2-ba3e-4787-9c09-61f92ffaad69.png)
             
             les sauvegardes de vos parties sont gerer a travers des fichiers .fscene et .txt
 
