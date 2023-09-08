@@ -1,4 +1,4 @@
-# Escrime
+# Escrime Projet programation Python M1 visison et machine intelligente 
 jeu d'escrime fait en python version 3.10.8 dans le cadre du projet de programmation avancé des master 1 VMI 
 
 a fin de lancer le jeu il convient d'executer la commande "python main.py"
